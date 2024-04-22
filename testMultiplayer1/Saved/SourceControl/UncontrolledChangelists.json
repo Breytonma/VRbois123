@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0V/5EB7L4SXKNJSG1YCN8AYFJ.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/MainMenu_Level.umap",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/Gameplay_Level.umap",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/levels/Gameplay_Level.umap",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/levels/MainMenu_Level.umap",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_CreateSession.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_FindSession.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_JoinSession.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_LeaveSessionUI.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/GM_MainMenu.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/WB_MainMenu.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/PC_MainMenu.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/ThirdPerson/Blueprints/BP_testObject.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/GM_GameplayLevel.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/PC_gameplay.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/BP_Gstate_Gplay.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/ThirdPerson/Input/Actions/IA_BallThrow.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/BP_ball.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/AIsetup/BP_AIpawn.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/levels/MainMenu_Level_BuiltData.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/levels/playFab_login.umap",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_loginMenu.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_generatingInputField.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WBP_signUpWidget.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WBP_loginWidget.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WB_playFabMenu.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/UI/WBP_forgotPassword.uasset",
+				"C:/Users/bamro/Documents/EpicGamingCreation/testMultiplayer1/Content/Sessions/BP_PlayFab_GameInstance.uasset"
+			]
+		}
+	]
+}
