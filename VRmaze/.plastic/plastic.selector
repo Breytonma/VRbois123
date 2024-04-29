@@ -1,4 +1,0 @@
-repository "VRmaze@batkin384@cloud"
-  path "/"
-    br "/main"
-    co "/main"
